@@ -11,7 +11,7 @@ int main()
 	for ( int i=1; i<=100; i++)
 
 	{
-	
+	//how really is
 	if (i%15==0)
 		{
 			cout << "\n\tFizzBuzz!\n";
@@ -32,7 +32,8 @@ int main()
 	}
 
 
-	/*if (i == m3)
+	/* how I thought it was
+ 	if (i == m3)
 		{
 			cout << "\n\tFIZZ!\n";
 		}
